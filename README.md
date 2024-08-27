@@ -1,4 +1,4 @@
-# Redux Toolkit для управления состоянием в React-приложении, Асинхронная работа с Redux Toolkit и createAsyncThunk
+# Асинхронная работа с Redux Toolkit и createAsyncThunk
 
 ## Available Scripts
 
